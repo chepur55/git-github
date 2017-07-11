@@ -1,1 +1,3 @@
 This is the test for git status and add.
+
+After modified.
